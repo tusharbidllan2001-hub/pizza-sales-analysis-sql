@@ -52,3 +52,20 @@ The project uses the following files:
 
 ## Project Purpose
 This project was created as part of my SQL portfolio to demonstrate problem-solving and business data analysis using SQL.
+
+## Sample Output Screenshots
+
+### Q1. Total number of orders placed
+![Q1 Output](Q1.png)
+
+### Q2. Total revenue generated
+![Q2 Output](Q2.png)
+
+### Q5. Top 5 most ordered pizza names
+![Q5 Output](Q5.png)
+
+### Q7. Top 3 pizzas by revenue
+![Q7 Output](Q7.png)
+
+### Q11. Total revenue month-wise
+![Q11 Output](Q11.png)
